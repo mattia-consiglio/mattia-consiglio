@@ -2,11 +2,11 @@
 
 # Hello, folks! 👋
 
-Hi, I'm Mattia Consiglio! I'm a junior full-stack web developer that loves tecnologies and innovation.
+Hi, I'm Mattia Consiglio! I'm a junior full-stack web developer that loves technologies and innovation.
 
 - 👓 Now I'm learning: Next.js
 - 🚧 I'm working on: [Consitech LMS](#consitech-lms--work-in-progress)
-- 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/mattiaconsiglio/)
+- 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/mattiaconsiglio/)
 
 ## 🔧 Knowledge
 Main
@@ -42,15 +42,15 @@ My LMS made mainly with Next.js, Spring Boot, PostgreSQL.
 [Back-end repository](https://github.com/mattia-consiglio/consitech-lms-back-end)
 
 ### [React Netflix Clone](https://netflix-clone-mattia-consiglio.vercel.app/)
-A part of Netflix clone made with React.
+A part of the Netflix clone made with React.
 [Repository](https://github.com/mattia-consiglio/react-netflix-clone)
 
 ### [Epibooks](https://epibooks.vercel.app/)
-An online libray made in React and TypeScript.
+An online library made in React and TypeScript.
 [Repository](https://github.com/mattia-consiglio/epibooks)
 
-## 📈 GitHub Statisics
+## 📈 GitHub Statistics
 
-![My GitHub Statisics](https://github-readme-stats.vercel.app/api?username=mattia-consiglio&show_icons=true&theme=dark)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mattia-consiglio&show_icons=true&theme=dark)
 
-![Le tue statistiche dei linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=mattia-consiglio&layout=compact&theme=dark)
+![My GitHub languages Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=mattia-consiglio&layout=compact&theme=dark)
