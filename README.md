@@ -37,9 +37,11 @@ Secondary
 ## Projects
 
 ### [Consitech LMS](https://lms.consitech.it/) [🚧 work in progress]
-My LMS made mainly with Next.js, Spring Boot, PostgreSQL.
+My LMS for coding made mainly with Next.js, Spring Boot, PostgreSQL.
 [Front-end repository](https://github.com/mattia-consiglio/consitech-lms-front-end),
 [Back-end repository](https://github.com/mattia-consiglio/consitech-lms-back-end)
+
+Watch me working on the project in live on my [Twitch channel](https://www.twitch.tv/ilconsi96) or watch shortly the overview and updates on the [YouTube's playlist](https://www.youtube.com/playlist?list=PLPgZJVQ8m5YlZZ4HPgEIDZl5plD6U1OCV)
 
 ### [React Netflix Clone](https://netflix-clone-mattia-consiglio.vercel.app/)
 A part of the Netflix clone made with React.
