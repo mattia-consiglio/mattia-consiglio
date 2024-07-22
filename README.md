@@ -48,7 +48,7 @@ Watch me working on the project in live on my [Twitch channel](https://www.twitc
 A Visual Studio Code extesion to record changes in the code and the active tab in a CSV (source), SRT and JSON file.
 [Repository](https://github.com/mattia-consiglio/VS-Code-Recorder)
 
-### [React Netflix Clone](https://netflix-clone-mattia-consiglio.vercel.app/)
+### [React Netflix Clone](https://ntflx-clone-mattia-consiglio.vercel.app/)
 A part of the Netflix clone made with React.
 [Repository](https://github.com/mattia-consiglio/react-netflix-clone)
 
